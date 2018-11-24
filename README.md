@@ -1,1 +1,1 @@
-# zaam
+worker: node bot.js
